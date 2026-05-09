@@ -1,6 +1,6 @@
 {
-  "short_name": "我的高考志愿匹配系统",
-  "name": "Create React App Sample",
+  "short_name": "高考志愿匹配系统",
+  "name": "高考志愿匹配系统",
   "icons": [
     {
       "src": "favicon.ico",
